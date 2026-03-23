@@ -1,0 +1,20 @@
+{
+  "ticker": "AAPL",
+  "model": "RandomForestClassifier",
+  "period": "2y",
+  "test_accuracy": 0.5495,
+  "latest_probability_up": 0.7086,
+  "latest_signal": "BUY",
+  "feature_importance": {
+    "Return_1d": 0.15991873753787988,
+    "Return_5d": 0.1362860643092973,
+    "Volatility_10d": 0.11347356672773311,
+    "Price_vs_SMA10": 0.1069770924135745,
+    "Price_vs_SMA20": 0.13612111760075232,
+    "Price_vs_SMA50": 0.10981138275214031,
+    "RSI_14": 0.12172691509367156,
+    "Volume_Change": 0.11568512356495113
+  },
+  "test_rows": 91,
+  "train_rows": 361
+}

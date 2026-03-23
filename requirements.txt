@@ -1,0 +1,31 @@
+# Core Framework & Agent Bridge
+langchain>=1.2.0
+langchain-community>=1.2.0
+langchain-core>=0.3.0
+langchain-classic>=1.0.0
+
+# LLM & Embeddings
+langchain-groq>=1.1.0
+langchain-openai>=0.3.0
+
+# Vector Database
+qdrant-client>=1.10.0
+langchain-qdrant>=0.2.0
+
+# Browser Automation & UI
+browser-use>=0.1.5
+streamlit>=1.42.0
+python-dotenv>=1.0.1
+
+# Data Handling
+pydantic>=2.10.0
+beautifulsoup4>=4.12.
+
+matplotlib>=3.10.0
+pandas>=2.2.0
+
+langchain-huggingface>=0.1.0
+sentence-transformers>=3.0.0
+tabulate  # For pretty-printing tables in the UI
+scikit-learn # For basic predictive modeling
+# Keep the rest as they were
