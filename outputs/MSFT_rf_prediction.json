@@ -1,0 +1,20 @@
+{
+  "ticker": "MSFT",
+  "model": "RandomForestClassifier",
+  "period": "2y",
+  "test_accuracy": 0.4505,
+  "latest_probability_up": 0.6095,
+  "latest_signal": "BUY",
+  "feature_importance": {
+    "Return_1d": 0.12276692886352357,
+    "Return_5d": 0.12814185081718898,
+    "Volatility_10d": 0.15530839157377035,
+    "Price_vs_SMA10": 0.11162787252307893,
+    "Price_vs_SMA20": 0.123010458874472,
+    "Price_vs_SMA50": 0.13847262562366777,
+    "RSI_14": 0.09820439598197823,
+    "Volume_Change": 0.12246747574232021
+  },
+  "test_rows": 91,
+  "train_rows": 361
+}

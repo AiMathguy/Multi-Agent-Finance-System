@@ -1,0 +1,63 @@
+Ticker: MSFT
+Company: Microsoft Corporation
+Sector: Technology
+Industry: Software - Infrastructure
+Current Price: 381.87
+Market Cap: 2838202155008
+
+Business Summary:
+Microsoft Corporation develops and supports software, services, devices, and solutions worldwide. The Productivity and Business Processes segment offers Microsoft 365 commercial, enterprise mobility + security, windows commercial, power BI, exchange, sharepoint, Microsoft teams, security and compliance, and copilot; Microsoft 365 commercial products, such as Windows commercial on-premises and office licensed services; Microsoft 365 consumer products and cloud services, including Microsoft 365 consumer subscriptions, office licensed on-premises, and other consumer services; LinkedIn; dynamics products and cloud services, such as dynamics 365, cloud-based applications, and on-premises ERP and CRM applications. Its Intelligent Cloud segment provides Server products and cloud services comprising Azure and other cloud services, GitHub, Nuance Healthcare, virtual desktop offerings, and other cloud services; server products, including SQL and windows server, visual studio and system center related client access licenses, and other on-premises offerings; enterprise and partner services, such as enterprise support and nuance professional services, industry solutions, Microsoft partner network, and learning experience. The Personal Computing segment provides windows and devices, such as Windows OEM licensing and devices and surface and PC accessories; gaming services and solutions, such as Xbox hardware, content, and services, first- and third-party content Xbox game pass, subscriptions, and cloud gaming, advertising, and other cloud services; search and news advertising services that includes Bing and Copilot, Microsoft News and Edge, and third-party affiliates. It sells its products through OEMs, distributors, and resellers; and online and retail stores. The company was founded in 1975 and is headquartered in Redmond, Washington.
+
+Recent News:
+1. Some people ride a last name. Others try to outwork it. Microsoft co-founder Bill Gates built one of | Unknown publisher
+2. The correlation between an index tracking the so-called Magnificent Seven and the equal-weighted ver | Unknown publisher
+3. There are several AI stocks on sale right now. | Unknown publisher
+4. Investing.com -- Artificial intelligence investment is positioned to remain a central pillar of glob | Unknown publisher
+5. Microsoft is overhauling leadership around its Copilot AI, unifying consumer and enterprise teams un | Unknown publisher
+
+RAG Research Answer:
+Facts:
+- Microsoft is overhauling leadership around its Copilot AI, unifying consumer and enterprise teams under a new executive.
+- The company is reducing the role of former AI lead Mustafa Suleyman.
+- Microsoft is tightening access to premium Copilot features, making them available only to paying customers.
+- The company is progressing on next generation AI infrastructure, validating Nvidia's Vera Rubin NVL72 systems, and expanding data centers.
+- There are several AI stocks on sale right now.
+- Predictive model output: Probability Up = 0.6095, Signal = BUY, Test Accuracy = 0.4505.
+- Risk decision output: Action = PROPOSE_BUY, Shares = 52, Notional = 19857.24.
+
+Themes:
+- Microsoft's restructuring of its AI leadership and strategy.
+- The company's focus on next-generation AI infrastructure and expansion of data centers.
+- The current state of AI stocks, with several being on sale.
+- The use of predictive models and risk decision frameworks in investment decisions.
+
+Prediction:
+- The predictive model output suggests a positive outlook for MSFT, with a probability of the stock going up at 0.6095 and a BUY signal.
+- The test accuracy of the model is 0.4505.
+
+Risk Decision:
+- The risk decision output proposes buying 52 shares of MSFT, with a notional value of 19857.24.
+- The decision is based on the predictive model output, with a confidence level passing the threshold at 0.61.
+- The position is capped at 10% of the portfolio, and the single-trade amount is capped at 20000.00, with human approval required before execution.
+
+Conclusion:
+- Based on the provided context, Microsoft's restructuring of its AI leadership and strategy, along with its focus on next-generation AI infrastructure, may have a positive impact on the company's stock.
+- The predictive model output and risk decision framework suggest a BUY signal, with a proposed purchase of 52 shares of MSFT.
+- However, it is essential to consider the test accuracy of the model and the risk controls in place before making any investment decisions.
+
+Predictive Analytics:
+Model: RandomForestClassifier
+Test Accuracy: 0.4505
+Latest Probability Up: 0.6095
+Latest Signal: BUY
+
+Risk Policy Decision:
+Action: PROPOSE_BUY
+Shares: 52
+Notional: 19857.24
+Human Approval Required: True
+Reasons:
+- Confidence passed threshold at 0.61.
+- Position capped by risk policy to 10% of portfolio.
+- Single-trade amount capped at 20000.00.
+- Human approval required before any execution.

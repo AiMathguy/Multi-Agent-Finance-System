@@ -1,0 +1,20 @@
+{
+  "ticker": "NVDA",
+  "model": "RandomForestClassifier",
+  "period": "2y",
+  "test_accuracy": 0.4066,
+  "latest_probability_up": 0.5405,
+  "latest_signal": "HOLD/NO_BUY",
+  "feature_importance": {
+    "Return_1d": 0.1437697989121354,
+    "Return_5d": 0.13381860303534704,
+    "Volatility_10d": 0.1076609088956925,
+    "Price_vs_SMA10": 0.12949427104677252,
+    "Price_vs_SMA20": 0.1097982956366695,
+    "Price_vs_SMA50": 0.09907905382692503,
+    "RSI_14": 0.09898337061798548,
+    "Volume_Change": 0.17739569802847252
+  },
+  "test_rows": 91,
+  "train_rows": 361
+}
