@@ -1,6 +1,6 @@
 # Core Framework & Agent Bridge
 langchain>=1.2.0
-langchain-community>=1.2.0
+langchain-community>=0.3.0
 langchain-core>=0.3.0
 langchain-classic>=1.0.0
 
@@ -15,11 +15,16 @@ langchain-qdrant>=0.2.0
 # Browser Automation & UI
 browser-use>=0.1.5
 streamlit>=1.42.0
+streamlit-option-menu>=0.3.6
 python-dotenv>=1.0.1
+
+# Backend API
+fastapi>=0.110.0
+uvicorn>=0.29.0
 
 # Data Handling
 pydantic>=2.10.0
-beautifulsoup4>=4.12.
+beautifulsoup4>=4.12.0
 
 matplotlib>=3.10.0
 pandas>=2.2.0

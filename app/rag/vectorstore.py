@@ -5,14 +5,23 @@ from app.rag.embeddings import get_embeddings
 from app.core.config import QDRANT_COLLECTION
 
 
+_client = None
+
+
 def get_qdrant_client():
+    global _client
+    if _client is not None:
+        return _client
+
     url = os.getenv("QDRANT_URL")
     api_key = os.getenv("QDRANT_API_KEY")
 
     if url and api_key:
-        return QdrantClient(url=url, api_key=api_key)
+        _client = QdrantClient(url=url, api_key=api_key)
+    else:
+        _client = QdrantClient(path="./qdrant_data")
 
-    return QdrantClient(path="./qdrant_data")
+    return _client
 
 
 def ensure_collection():
